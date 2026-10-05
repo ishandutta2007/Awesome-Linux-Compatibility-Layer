@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=frr-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Linux-Compatibility-Layer/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Linux-Compatibility-Layer?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Linux-Compatibility-Layer/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Linux-Compatibility-Layer?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Linux-Compatibility-Layer/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Linux-Compatibility-Layer?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Linux-Compatibility-Layer/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Linux-Compatibility-Layer?color=blue" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -59,7 +59,7 @@ Contributions are welcome! Please feel free to open a Pull Request to add or upd
 
 ## 📦 Open-Source GitHub Projects
 
-*(Sorted by GitHub Star Count in descending order)*
+*(Sorted by GitHub Stars_Count in descending order)*
 
 - 🎮 **[Proton](https://github.com/ValveSoftware/Proton)** [<img src="https://img.shields.io/github/stars/ValveSoftware/Proton?style=social&color=white" alt="Proton Stars"/>](https://github.com/ValveSoftware/Proton/stargazers)  
   Valve’s open-source gaming compatibility tool built on Wine, DXVK, and VKD3D-Proton, optimized for running Windows games seamlessly on Linux.
@@ -124,7 +124,7 @@ Contributions are welcome! Please feel free to open a Pull Request to add or upd
 
 1. 🍴 Fork the repository.
 2. 📝 Add your recommended tool or compatibility framework to `README.md`.
-3. 🔗 Include the project name, star count badge, GitHub link, and a concise 1–2 sentence description.
+3. 🔗 Include the project name, Stars_Count badge, GitHub link, and a concise 1–2 sentence description.
 4. 📬 Submit a Pull Request!
 
 ---
